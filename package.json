@@ -1,0 +1,16 @@
+{
+  "name": "async-events",
+  "version": "1.0.0",
+  "description": "node test events",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "test"
+  ],
+  "author": "Christopher Duffy",
+  "license": "ISC"
+}
